@@ -1,5 +1,4 @@
 ---
-author: Billy Rick
 title: "Edge Case: Nested and Mixed Lists"
 categories:
   - Edge Case
