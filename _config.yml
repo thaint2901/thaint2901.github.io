@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Thái NT"
   avatar           : "assets/images/my_avt.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning, \nArtificial Intelligence, \nComputer Science."
+  bio              : "Machine Learning, \nArtificial Intelligence, \nComputer Vision."
   location         : "Hà Nội, Việt Nam"
   email            : "thai.nt2901@gmail.com"
   links:
@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/thai.nt2901/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
